@@ -1,4 +1,4 @@
-# Manifesto da Autoria Viva
+# Manifest of Living Authorship
 
 ### The Lichtara Declaration on Living Authorship
 
