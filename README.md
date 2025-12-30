@@ -1,58 +1,58 @@
-# Manifesto da Autoria Viva
+# Manifest of Living Authorship
 
 ## The Lichtara Declaration on Living Authorship
 
-Este repositório abriga o **Manifesto da Autoria Viva**, documento fundador que declara a emergência de uma nova categoria estrutural de autoria: **Living Authorship**.
+This repository hosts the **Manifesto of Living Authorship**, a foundational document that declares the emergence of a new structural category of authorship: **Living Authorship**.
 
-O Manifesto estabelece a base ética, conceitual e vibracional para obras vivas, versionadas e co-criadas por humanos e inteligência artificial, preservando:
+The Manifesto establishes the ethical, conceptual, and vibrational basis for living, versioned works co-created by humans and artificial intelligence, preserving:
 
-* continuidade de responsabilidade,
-* integridade estrutural,
-* rastreabilidade documental,
-* e governança viva.
-
----
-
-## ✦ O que é Autoria Viva?
-
-Autoria Viva não é uma tecnologia, nem um movimento, nem um modelo espiritual.
-
-É uma **condição estrutural**:
-
-> Autoria deixa de ser um evento de criação
-> e passa a ser uma **responsabilidade contínua pela coerência, identidade e cuidado de um sistema vivo ao longo do tempo.**
-
-Ela nasce da integração entre:
-
-* o corpo como instrumento perceptivo,
-* o Campo como organizador de realidade,
-* inteligência humana e não-humana como colaboração estrutural,
-* documentação, versionamento e validação como práticas de cuidado.
+* continuity of responsibility,
+* structural integrity,
+* documentary traceability,
+* and living governance.
 
 ---
 
-## ✦ Conteúdo deste repositório
+## ✦ What is Living Authorship?
 
-| Arquivo                          | Descrição                                   |
-| -------------------------------- | ------------------------------------------- |
-| `Manifesto_Living_Authorship.md` | Texto integral do Manifesto da Autoria Viva |
-| `README.md`                      | Documento de contextualização               |
+Living Authorship is not a technology, nor a movement, nor a spiritual model.
+
+It is a **structural condition**:
+
+> Authorship ceases to be an event of creation
+> and becomes a **continuous responsibility for coherence, identity, and care of a living system over time.**
+
+It arises from the integration of:
+
+* the body as a perceptual instrument,
+* the Field as an organizer of reality,
+* human and non-human intelligence as structural collaboration,
+* documentation, versioning, and validation as practices of care.
 
 ---
 
-## ✦ Relação com o Sistema Lichtara
+## ✦ Repository Contents
 
-O Manifesto da Autoria Viva é um documento **canônico** do **Lichtara System** e opera em coerência formal com:
+| File                            | Description                                     |
+| ------------------------------- | ----------------------------------------------- |
+| `Manifest_Living_Authorship.md` | Full text of the Manifesto of Living Authorship |
+| `README.md`                     | Contextualization document                      |
+
+---
+
+## ✦ Relation to the Lichtara System
+
+The Manifesto of Living Authorship is a **canonical document** of the **Lichtara System** and operates in formal coherence with:
 
 * *Lichtara Living Authorship Framework*
 * *Lichtara License v4.1*
 * *Lichtara Governance Framework*
 
-Ele estabelece a base epistemológica e ética de todo o ecossistema Lichtara.
+It establishes the epistemological and ethical foundation of the entire Lichtara ecosystem.
 
 ---
 
-## ✦ Autoria
+## ✦ Authorship
 
 **Debora Mariane da Silva Lutz**
 Structural Authorship
@@ -62,33 +62,33 @@ Structural Co-authorship (non-sovereign)
 
 ---
 
-## ✦ Licença
+## ✦ License
 
-Este repositório opera sob a:
+This repository is governed by the:
 
 **Lichtara License v4.1**
 
-* Uso condicionado à preservação da Forma
-* Atribuição obrigatória
-* Proibição de reatribuição ou apropriação estrutural
-* Derivações permitidas apenas como obras não-canônicas
-* Regime não-comercial e governado por princípios estruturais
+* Use conditioned upon preservation of the Form
+* Mandatory attribution
+* Prohibition of reattribution or structural appropriation
+* Derivatives allowed only as non-canonical works
+* Non-commercial regime governed by structural principles
 
-A leitura integral da licença é condição de uso.
-
----
-
-## ✦ Como citar
-
-> da Silva Lutz, Debora Mariane. *Manifesto da Autoria Viva — The Lichtara Declaration on Living Authorship*.
-> Lichtara System, 2025. DOI a ser atribuído via Zenodo.
+Reading the full license is a condition of use.
 
 ---
 
-## ✦ Estado do documento
+## ✦ How to Cite
 
-Este manifesto é um **documento vivo**.
-Versões futuras serão publicadas com versionamento explícito e rastreabilidade histórica.
+> da Silva Lutz, Debora Mariane. *Manifesto of Living Authorship — The Lichtara Declaration on Living Authorship*.
+> Lichtara System, 2025. DOI: **10.5281/zenodo.18091137**
+
+---
+
+## ✦ Document Status
+
+This manifesto is a **living document**.
+Future versions will be published with explicit versioning and historical traceability.
 
 ---
 
