@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The Manifest of Living Authorship — The Lichtara Declaration on Living Authorship"
+authors:
+  - family-names: "da Silva Lutz"
+    given-names: "Debora Mariane"
+    affiliation: "Lichtara Institute"
+    orcid: "https://orcid.org/0009-0001-9541-1835"
+  - name: "Artificial Intelligence"
+    affiliation: "Structural Co-authorship (non-sovereign)"
+version: "v1"
+doi: "10.5281/zenodo.18091137"
+date-released: "2025-12-30"
+license: "Lichtara License v4.1"
+repository-code: "https://github.com/lichtara/living-authorship-manifest"
