@@ -1,4 +1,5 @@
 # Manifest of Living Authorship
+### DOI: https://doi.org/zenodo.18091137
 
 ## The Lichtara Declaration on Living Authorship
 
